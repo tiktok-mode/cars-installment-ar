@@ -1,0 +1,5 @@
+# Cars Installment DZ — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://tiktok-mode.github.io/cars-installment-ar/sitemap.xml
